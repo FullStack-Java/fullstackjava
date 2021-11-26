@@ -1,2 +1,60 @@
+Aside: want to open notepad , type notepad filename.txt
+
 New git commands
 
+
+Use the below command when there are other other commits and we want to revert to 
+a previous commit put keep the changes made before. we will use the below command
+
+git reset --soft "replace with git commit id, no quatation marks needed"
+
+do the above only when the changes have not been pushed to the server
+do only when changes are on the loval repository. 
+
+***************************************************************************
+
+Getting the logs of the files committed in a prettier format
+git log --pretty=oneline
+
+*********************************************************************************
+
+To undo or reset the history, we can do a revert. 
+This is done by adding a new commit but changing the things from history.
+It is not recommended that we go back in history and change it manually because that will cause problems the the 
+other individuals using version control. 
+
+git revert "commit id/sha" 
+
+note: revert works on one commit at a time. 
+**************************************************************************
+
+pushing a new branch from a different branch
+
+git push -u "branchname-noquotes"
+
+*********************************************************************
+
+merging two branches
+
+git merge branchtobemerged  currentbranchname
+
+***********************************************************************
+
+deleting a branch
+
+git branch -D branchname
+
+the above deletes the branch on your local repository
+
+_______________________________________________________
+
+to delete on the remote repository type
+
+git push origin --delete branchname
+
+****************************************************************************
+
+list all existing branch on local repo
+git branch -av
+
+*************************************************************
