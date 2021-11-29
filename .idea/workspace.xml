@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/GraphObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/MainAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fullstackjava/polymorphism/MethodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsSets/HashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsSets/TreeSets1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlingexceptions/Errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlingexceptions/nestedTryBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/BicycleOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/MountainBikeOR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitcommands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gitcommands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapulation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/abstraction/GraphObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fullstackjava/abstraction/GraphObject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +54,65 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
-    <configuration name="MainAbstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.MainAbstraction" />
+  <component name="RunManager" selected="Application.TreeSets1">
+    <configuration name="Errors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="handlingexceptions.Errors" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstraction.*" />
+          <option name="PATTERN" value="handlingexceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSet.HashSet" />
+      <module name="fullstackjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsSets.HashSet1" />
+      <module name="fullstackjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsSets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSets1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsSets.TreeSets1" />
+      <module name="fullstackjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsSets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nestedTryBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="handlingexceptions.nestedTryBlocks" />
+      <module name="fullstackjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="handlingexceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainAbstraction" />
+        <item itemvalue="Application.TreeSets1" />
+        <item itemvalue="Application.HashSet1" />
+        <item itemvalue="Application.HashSet" />
+        <item itemvalue="Application.nestedTryBlocks" />
+        <item itemvalue="Application.Errors" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +151,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
