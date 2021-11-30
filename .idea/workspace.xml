@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fullstackjava/polymorphism/MethodOverloading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionsSets/HashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionsSets/TreeSets1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/handlingexceptions/Errors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/handlingexceptions/nestedTryBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/BicycleOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/MountainBikeOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMaps/HashMaps1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMaps/JavaMapsHierarchy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMaps/MapInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMaps/TreeMaps1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringBuffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/returnStatments/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticexplained/staticexpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/abstraction/GraphObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fullstackjava/abstraction/GraphObject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +39,15 @@
     </option>
   </component>
   <component name="ProjectId" id="21TGEj5urqGUM7XonvdsiYxT57k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -54,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.TreeSets1">
-    <configuration name="Errors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="handlingexceptions.Errors" />
+  <component name="RunManager" selected="Application.StringBuffers">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="returnStatments.Calculator" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="handlingexceptions.*" />
+          <option name="PATTERN" value="returnStatments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSet.HashSet" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.Rectangle" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashSet.*" />
+          <option name="PATTERN" value="abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsSets.HashSet1" />
+    <configuration name="StringBuffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringBuffers" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsSets.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSets1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsSets.TreeSets1" />
+    <configuration name="TreeMaps1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMaps.TreeMaps1" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsSets.*" />
+          <option name="PATTERN" value="JavaMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nestedTryBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="handlingexceptions.nestedTryBlocks" />
+    <configuration name="staticexpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticexplained.staticexpl" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="handlingexceptions.*" />
+          <option name="PATTERN" value="staticexplained.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSets1" />
-        <item itemvalue="Application.HashSet1" />
-        <item itemvalue="Application.HashSet" />
-        <item itemvalue="Application.nestedTryBlocks" />
-        <item itemvalue="Application.Errors" />
+        <item itemvalue="Application.StringBuffers" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.staticexpl" />
+        <item itemvalue="Application.TreeMaps1" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +154,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
