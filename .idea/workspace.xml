@@ -5,15 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaMaps/HashMaps1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaMaps/JavaMapsHierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaMaps/MapInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaMaps/TreeMaps1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringBuffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/returnStatments/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticexplained/staticexpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AggegationInheritance/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AggegationInheritance/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Class-Object-eg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Classes-Objects.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Constructor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorChaining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorChainingEg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorOverloading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorOverloadingEg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorTypes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ConstructorWorkings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/InheritaceTypes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Inheritance-IS-A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Inheritance-multilevel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Inheritance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/NamingConvention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/OOPConcepts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dynamicPolymorphism-Overriding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/has-a-relationship-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/has-a-relationship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/inhrtitance-hierarchical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/method-vs-constructor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/methodOverloading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/polymorphism.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/staticKeyword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/staticMethod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/staticVariable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/staticVariableExplained.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/superKeyword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/superKeywordEg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/thisKeyword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/variableTypes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticexplained/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superKeyword/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superKeyword/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thisKeyword/ClassInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +83,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.StringBuffers">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="returnStatments.Calculator" />
+  <component name="RunManager" selected="Application.Truck">
+    <configuration name="ClassInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thisKeyword.ClassInfo" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="returnStatments.*" />
+          <option name="PATTERN" value="thisKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.Rectangle" />
+    <configuration name="EmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AggegationInheritance.EmployeeInfo" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstraction.*" />
+          <option name="PATTERN" value="AggegationInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticexplained.Employees" />
+      <module name="fullstackjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticexplained.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMaps1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMaps.TreeMaps1" />
+    <configuration name="Truck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superKeyword.Truck" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="staticexpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticexplained.staticexpl" />
-      <module name="fullstackjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="staticexplained.*" />
+          <option name="PATTERN" value="superKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Truck" />
+        <item itemvalue="Application.EmployeeInfo" />
+        <item itemvalue="Application.ClassInfo" />
+        <item itemvalue="Application.Employees" />
         <item itemvalue="Application.StringBuffers" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.staticexpl" />
-        <item itemvalue="Application.TreeMaps1" />
       </list>
     </recent_temporary>
   </component>
