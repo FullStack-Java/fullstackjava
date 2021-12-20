@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/serialization/ObjectStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/serialzeFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/Files/bikerGuys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fullstackjava/Files/bikerGuys.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.ObjectStreamDemo">
+  <component name="RunManager" selected="Application.Wrappers">
     <configuration name="FileWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Files.FileWriterDemo" />
       <module name="fullstackjava" />
@@ -91,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Truck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="superKeyword.Truck" />
+    <configuration name="Wrappers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrapperClasses.Wrappers" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="superKeyword.*" />
+          <option name="PATTERN" value="WrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wrappers" />
         <item itemvalue="Application.ObjectStreamDemo" />
         <item itemvalue="Application.FileWriterDemo" />
         <item itemvalue="Application.inputOutputDemo" />
         <item itemvalue="Application.RegExpressions" />
-        <item itemvalue="Application.Truck" />
       </list>
     </recent_temporary>
   </component>
