@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a797ab8c-8c15-4c35-aec1-bb5a42202572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Files/EmployeeInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/FileWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serialization/ObjectStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serialization/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serialization/serialzeFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/inputoutputFiles/EmployeeInfo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/inputoutputFiles/inputOutputDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputoutputFiles/EmployeeInfo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputoutputFiles/inputOutputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/inputOutputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fullstackjava/Files/bikerGuys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fullstackjava/Files/bikerGuys.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +51,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.FileWriterDemo">
-    <configuration name="EmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AggegationInheritance.EmployeeInfo" />
+  <component name="RunManager" selected="Application.ObjectStreamDemo">
+    <configuration name="FileWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Files.FileWriterDemo" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AggegationInheritance.*" />
+          <option name="PATTERN" value="Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Files.FileWriterDemo" />
+    <configuration name="ObjectStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serialization.ObjectStreamDemo" />
       <module name="fullstackjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Files.*" />
+          <option name="PATTERN" value="serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectStreamDemo" />
         <item itemvalue="Application.FileWriterDemo" />
         <item itemvalue="Application.inputOutputDemo" />
         <item itemvalue="Application.RegExpressions" />
         <item itemvalue="Application.Truck" />
-        <item itemvalue="Application.EmployeeInfo" />
       </list>
     </recent_temporary>
   </component>
